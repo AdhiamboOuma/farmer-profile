@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./bg.png);
+    background-size: cover;
+    background-position: center;
+    padding: 32px;
+    margin: 0;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: #89358c;
+    font-size: 32px;
+    width: 650px;
+}
+
+h1 {
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    font-size: 5rem;
+    font-weight: 1;
+    padding: 1.5rem;  
+    right: 90rem; 
+}
+ul {
+    position: fixed;
+    top: 15rem;
+    right: 15rem;
+    color: #89358c;
+    font-size: 32px;
+}
+a {
+    position: fixed;
+    top: 6rem; 
+    right: 5rem;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: black;
+}
+h2 {
+    background-color: black;
+    color: bisque;
+    display: inline-block;
+    position: fixed;
+    top: 30rem;
+    padding: 1.5rem; 
+}
+
